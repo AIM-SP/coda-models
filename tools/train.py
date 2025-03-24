@@ -86,7 +86,7 @@ def main():
             else:
                 total_gpus = torch.cuda.device_count()
 
-        dist_train = True
+        # dist_train = True
         if args.batch_size is None:
             args.batch_size = cfg.OPTIMIZATION.BATCH_SIZE_PER_GPU
         else:
