@@ -1,4 +1,4 @@
-CLASS_NAMES: ['Car', 'Pedestrian', 'Cyclist', 'PickupTruck', 'DeliveryTruck', 'ServiceVehicle', 'UtilityVehicle', 'Scooter', 'Motorcycle', 'FireHydrant', 'FireAlarm', 'ParkingKiosk', 'Mailbox', 'NewspaperDispenser', 'SanitizerDispenser', 'CondimentDispenser', 'ATM', 'VendingMachine', 'DoorSwitch', 'EmergencyAidKit', 'Computer', 'Television', 'Dumpster', 'TrashCan', 'VacuumCleaner', 'Cart', 'Chair', 'Couch', 'Bench', 'Table', 'Bollard', 'ConstructionBarrier', 'Fence', 'Railing', 'Cone', 'Stanchion', 'TrafficLight', 'TrafficSign', 'TrafficArm', 'Canopy', 'BikeRack', 'Pole', 'InformationalSign', 'WallSign', 'Door', 'FloorSign', 'RoomLabel', 'FreestandingPlant', 'Tree', 'Other']
+CLASS_NAMES: ['Car', 'Pedestrian', 'Cyclist']
 
 DATA_CONFIG:
     _BASE_CONFIG_: cfgs/dataset_configs/da_coda32_oracle_dataset_full.yaml

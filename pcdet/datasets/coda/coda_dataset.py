@@ -668,8 +668,8 @@ if __name__ == '__main__':
                 'Skateboard',
                 'WaterFountain'
             ],
-            data_path=ROOT_DIR / 'data' / 'coda128_allclass_full',
-            save_path=ROOT_DIR / 'data' / 'coda128_allclass_full',
+            data_path=ROOT_DIR / 'data' / 'coda32_allclass_full',
+            save_path=ROOT_DIR / 'data' / 'coda32_allclass_full',
         )
 """
 Full Class List
